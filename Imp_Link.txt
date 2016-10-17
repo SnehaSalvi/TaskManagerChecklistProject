@@ -1,0 +1,7 @@
+JSP-Servlet e.g: http://www.javatpoint.com/creating-servlet-in-eclipse-ide
+		 http://stackoverflow.com/questions/28261312/tomcat-server-failes-to-start
+Jar file for struts: http://code2care.org/2015/list-of-jars-required-for-struts2-project/  
+
+C:\Program Files\MySQL\MySQL Server 5.5\bin
+
+http://stackoverflow.com/questions/20515177/div-partition-with-css
