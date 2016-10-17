@@ -30,12 +30,12 @@ public class Hello extends HttpServlet {
 	{
 		response.setContentType("text/html");
 		PrintWriter out=response.getWriter();
+		
 		String name=request.getParameter("user");
 		out.print("<html><body>");
 		out.print("Hello"+" "+name);
 		out.print("</body></html>");
 		out.close();
-		
 	}
 
 }
